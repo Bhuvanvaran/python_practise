@@ -17,9 +17,9 @@ def new_line():
 
 
 # Example for inbuilt len method in java we use to take strings using string.lenght() but here it is straight forward
-def lenght_of_the_string():
-    lenght_of_the_strin = "Hello "
-    print(len(lenght_of_the_strin))
+def length_of_the_string():
+    length_of_the_string = "Hello "
+    print(len(length_of_the_string))
 
 
 # String indexing
@@ -107,20 +107,20 @@ def truncate_and_padding():
     mystring = 'HelloThere'
     print('{:10.5}'.format(mystring))
 if __name__ == '__main__':
-    # single_quote()
-    # double_quote()
-    # new_line()
-    # lenght_of_the_string()
-    # positive_indexing()
-    # negative_indexing()
-    #start_substring()
-    #backward_sbstring()
-    #specific_string()
-    #step_size()
-    #jump_characters()
-    #jump_slice()
-    #examplea()
-    #string_functions()
+    single_quote()
+    double_quote()
+    new_line()
+    length_of_the_string()
+    positive_indexing()
+    negative_indexing()
+    start_substring()
+    backward_sbstring()
+    specific_string()
+    step_size()
+    jump_characters()
+    jump_slice()
+    examplea()
+    string_functions()
     format_string2()
     f_string_method()
     right_allignment()
