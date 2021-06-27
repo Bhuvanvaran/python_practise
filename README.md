@@ -2,6 +2,7 @@
 
 Install pycharm for windows 
 https://www.jetbrains.com/pycharm/download/#section=windows
+import this project after cloning
 
 Episode 1 - String Practices
 strings_example.py
