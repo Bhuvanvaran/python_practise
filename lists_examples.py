@@ -13,7 +13,14 @@ def slicing_and_indexing(index,slicing):
     my_list=['one','two','three']
     print(my_list[index])
     print(my_list[slicing:])
+def concatenate_lists():
+    list_a=[1,2,3]
+    list_b=[4,5,6]
+    list_c=list_a+list_b
+    print("Getting index from list c {}".format(list_c[3:]))
+
 if __name__ == '__main__':
     simple_lists()
     slicing_and_indexing(0,1)
+    concatenate_lists()
 
