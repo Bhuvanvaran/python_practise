@@ -8,3 +8,7 @@ strings_example.py
 ctrl+shift+10 (Pycharm execution)
 Ref: https://pyformat.info/
 
+Episode 2 - Lists Practices (Inprogress)
+lists_examples.py
+
+
