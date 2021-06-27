@@ -4,7 +4,7 @@ def single_quote():
     print(single_quoted_string)
 
 
-# Example for printing string in double quotes with singel quotes in it
+# Example for printing string in double quotes with single quotes in it
 def double_quote():
     double_quoted_string = "I'm the world"
     print(double_quoted_string)
