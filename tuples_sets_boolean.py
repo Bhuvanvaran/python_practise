@@ -1,6 +1,6 @@
 #Tuples are like list but it is immutable
 #Tuplse syntax (1,2,3)
-#List Syntac [1,2,3]
+#List Syntax [1,2,3]
 #Dictionary syntax {1,2,3}
 
 def tuples():
