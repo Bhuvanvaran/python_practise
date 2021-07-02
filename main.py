@@ -8,10 +8,10 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     numbers = 50+50
-    iam_list = ["HI da", "Bhuvan"]
+    iam_list = ["Hello", "World"]
     print(numbers)
 def my_method2():
-    str = "Bhuvan"
+    str = "World"
     print(str)
 
 def income_method(my_income,my_taxes):
